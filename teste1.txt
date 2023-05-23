@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 banana talvez
 maçã
+=======
+banana e bom
+maçã 
+>>>>>>> 901a2c5790e31e0e87ea6316491292ceaee102c1
